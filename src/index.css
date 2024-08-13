@@ -120,7 +120,7 @@ button:focus-visible {
 
 .content {
   margin: 2em 1em;
-  width: 272px;
+  width: 512px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -175,3 +175,9 @@ button:focus-visible {
 }
 
 /**********/
+
+@media screen and (max-width: 600px) {
+  .content {
+    width: 256px;
+  }
+}
