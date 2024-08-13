@@ -22,7 +22,7 @@ function Navbar() {
       </div>
       <div className="window-body">
         <button onClick={openTwitter}>Twitter</button>
-        <button onClick={openTelegram}>Twitter</button>
+        <button onClick={openTelegram}>Telegram</button>
         <button onClick={openSolscan}>Solscan</button>
         <button className="buy-btn" onClick={openBuy}>Buy</button>
       </div>
