@@ -1,3 +1,4 @@
+import "98.css";
 import Header from "./Header.jsx";
 import Navbar from "./Navbar.jsx";
 import Content from "./Content.jsx";
